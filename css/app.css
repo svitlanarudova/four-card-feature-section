@@ -138,7 +138,7 @@ MAIN
   --max-w-section: 69.625rem;
   --padding-xs: 3.5rem;
   max-inline-size: min(84%, var(--max-w-section, 69.625rem));
-  padding-block-start: var(--padding-xs);
+  padding-block: var(--padding-xs);
 }
 
 .feature__heading {
