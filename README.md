@@ -21,17 +21,8 @@ This project helped me practice responsive design techniques and modern CSS appr
 ##  What I Learned💡
 
 1. **Responsive Design with `clamp()`**: I learned to use `clamp()` for fluid scaling of spacing and sizes without media queries:
-```css
-padding-inline: clamp(var(--padding-md), 1.092rem + 8.143vw, var(--padding-lg));
-```
 
 2. **Local CSS Variables**: I applied local CSS variables for each component instead of global ones, which improves encapsulation and reusability
-
-3. **Component-Based Approach**: 
-
-   -- I organized styles following a component principle with BEM-like methodology, making the code modular and easy to maintai
-   
-   -- Each component has its own scoped variables and styles, which prevents conflicts and makes the codebase more scalable
 
 
 ## Challenges I Faced 🚧
