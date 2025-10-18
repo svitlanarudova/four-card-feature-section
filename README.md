@@ -1,4 +1,4 @@
-![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-4BC0F0?logo=frontendmentor&logoColor=white) ![#7](https://img.shields.io/badge/%237-red) [![Live Preview](https://img.shields.io/badge/Live-Preview-green)]()
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-4BC0F0?logo=frontendmentor&logoColor=white) ![#7](https://img.shields.io/badge/%237-red) [![Live Preview](https://img.shields.io/badge/Live-Preview-green)](https://svitlanarudova.github.io/four-card-feature-section/)
 
 # Frontend Mentor - Four card feature section
 ![Design preview for the QR code component coding challenge](./preview.jpg)
