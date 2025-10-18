@@ -188,6 +188,7 @@ MAIN
 
 .card-feature__title {
   font-size: var(--fz-s, 1.25rem);
+  font-weight: var(--fw-600);
 }
 
 .card-feature__title:not(:last-child) {
@@ -199,8 +200,8 @@ MAIN
 }
 
 .card-feature__icon {
-  --w-icon: 4rem;
-  --space-svg: 0.1875rem;
+  --w-icon: 4.25rem;
+  --space-svg: 0.125rem;
   overflow: hidden;
   align-self: flex-end;
   inline-size: var(--w-icon);
