@@ -87,6 +87,7 @@ img{
   --lh-primary: 1.4;
   --lh-xs: 1.35;
   --lh-s: 1.6;
+  --fw-300: 300;
   --fw-600: 600;
   --letter-sp-xs: 0.015625rem;
   --letter-sp-s: 0.00625rem;
@@ -113,6 +114,7 @@ body {
 .title {
   font-size: clamp(var(--fz-sm, 1.5rem), 0.904rem + 2.545vw, var(--fz-md));
   letter-spacing: var(--letter-sp-s);
+  font-weight: var(--fw-300);
 }
 
 .title strong {
