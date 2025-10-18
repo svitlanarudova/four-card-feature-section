@@ -99,12 +99,12 @@ img{
 /* ================================
    LAYOUT
 ================================ */
+
 body {
   font-family: var(--ff-primary, "Poppins", sans-serif);
   font-size: var(--fz-primary, 0.8125rem);
   color: var(--color-primary, hsl(234, 12%, 34%));
   line-height: var(--lh-primary, 1.4);
-  background-color: var(--color-white-dark, hsl(0, 0%, 98%));
 }
 
 /* ================================
@@ -126,6 +126,7 @@ MAIN
   display: grid;
   place-items: center;
   min-block-size: 100vh;
+  background-color: var(--color-white-dark, hsl(0, 0%, 98%));
 }
 
 /* ================================
