@@ -70,6 +70,7 @@ img{
   --color-primary: hsl(234, 12%, 34%);
   --color-gray400: hsl(212, 6%, 44%);
   --color-white: hsl(0, 0%, 100%);
+  --color-white-dark: hsl(0, 0%, 98%);
   --color-red: hsl(0, 78%, 62%);
   --color-cyan: hsl(180, 62%, 55%);
   --color-blue: hsl(212, 86%, 64%);
@@ -103,6 +104,7 @@ body {
   font-size: var(--fz-primary, 0.8125rem);
   color: var(--color-primary, hsl(234, 12%, 34%));
   line-height: var(--lh-primary, 1.4);
+  background-color: var(--color-white-dark, hsl(0, 0%, 98%));
 }
 
 /* ================================
@@ -177,6 +179,7 @@ MAIN
   flex-direction: column;
   flex: 1;
   padding: var(--space-md, 2rem) var(--space-md, 2rem) var(--space-lg, 2.9375rem);
+  background-color: var(--color-white);
   border-radius: var(--border-r-sm);
   border-block-start: var(--border-w) solid var(--border-color, var(--color-cyan));
   box-shadow: var(--box-shadow);
