@@ -20,9 +20,6 @@ This project helped me practice responsive design techniques and modern CSS appr
 
 ##  What I Learned💡
 
-1. **Responsive Design with `clamp()`**: I learned to use `clamp()` for fluid scaling of spacing and sizes without media queries:
-
-2. **Local CSS Variables**: I applied local CSS variables for each component instead of global ones, which improves encapsulation and reusability
 
 
 ## Challenges I Faced 🚧
