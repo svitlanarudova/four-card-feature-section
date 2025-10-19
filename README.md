@@ -1,12 +1,11 @@
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-4BC0F0?logo=frontendmentor&logoColor=white) ![#7](https://img.shields.io/badge/%237-red) [![Live Preview](https://img.shields.io/badge/Live-Preview-green)](https://svitlanarudova.github.io/four-card-feature-section/)
 
 # Frontend Mentor - Four card feature section
-![Design preview for the QR code component coding challenge](./preview.jpg)
+![Design preview for the Four card feature section](./preview.jpg)
 
 ## Project Overview 📋 
 
-This is my solution to the Four card feature section challenge on Frontend Mentor.
-This project helped me practice responsive design techniques and modern CSS approaches.
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
 ## Built With 🛠️
 
